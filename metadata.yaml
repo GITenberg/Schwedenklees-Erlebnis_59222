@@ -1,0 +1,25 @@
+_repo: Schwedenklees-Erlebnis_59222
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kellermann, Bernhard
+    aliases:
+    - Kellerman, Berngard
+    - Kellermann, B. (Bernhard)
+    birthdate: 1879
+    deathdate: 1951
+    gutenberg_agent_id: '40548'
+    url: http://www.gutenberg.org/2009/agents/40548
+description: ''
+gutenberg_issued: '2019-04-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59222'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Schwedenklees Erlebnis
+url: http://www.gutenberg.org/ebooks/59222
